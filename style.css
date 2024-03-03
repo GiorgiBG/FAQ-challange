@@ -28,7 +28,7 @@ h1 {
 .back-top {
   width: 100%;
   height: 40vh;
-  background-image: url("/assets/images/background-pattern-desktop.svg");
+  background-image: URL("./assets/images/background-pattern-desktop.svg");
   background-size: cover;
   background-position: center;
 }
